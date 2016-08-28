@@ -1,0 +1,25 @@
+{
+    "name":        "KKo/Json",
+    "description": "JSON wrapper can handle commented JSON",
+    "license":     "MIT",
+    "keywords":    ["JSON"],
+    "authors": [
+        {
+            "name":  "Knut Kohl",
+            "email": "github@knutkohl.de"
+        }
+    ],
+    "prefer-stable": true,
+    "require": {
+        "PHP": ">=5.3",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "KKo\\": "src"
+        }
+    }
+}
