@@ -1,5 +1,5 @@
 {
-    "name":        "KKo/Json",
+    "name":        "k-ko/json",
     "description": "JSON wrapper can handle commented JSON",
     "license":     "MIT",
     "keywords":    ["JSON"],
